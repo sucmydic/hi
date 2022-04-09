@@ -1,0 +1,107 @@
+.top-container {
+  background-color: #E4F9F5;
+  margin-top: 0px;
+}
+.middle2-container{
+  width: 50%;
+  display: inline-block;
+  margin-top: 100px;
+  margin-bottom: 100px
+
+
+}
+.bottom2-container{
+  background-color:#66BFBF;
+  color: white;
+}
+.Myname {
+  margin-block-start: 0em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.5em;
+  color:#66BFBF
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+    color:#66BFBF;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #11999E;
+
+}
+
+.myproff {
+  margin-block-start: 0em;
+  margin-inline-start: 0px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 30px;
+  color:#66BFBF;
+
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.down-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  left: 220px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.my-img {
+  border-radius: 112px
+
+}
+
+.About-Myself {
+  font-family: 'Merriweather', serif;
+}
+
+.comp-img {
+  border-radius: 200px;
+  width: 37%;
+
+}
+
+.sodi {
+  font-family: 'Merriweather', serif;
+
+  line-height: 2;
+}
+.button{
+  background-color: #66BFBF;
+  color: white;
+  height: 50px;
+  width: 200px;
+  font-size: 20px;
+  border: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+hr {
+  border: none;
+  border-top: 10px dotted #525E75;
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  width: 7%;
+}
